@@ -1,3 +1,16 @@
-Para fazer o download das dependências utilizados e gravados na package.json, rodar o comando *npm install*
+# Star Wars Planets
 
-Como o projeto foi realizado com o comando *create-react-app*, para testar podemos simplesmente rodar o comando *npm start* após a instalação da dependências.
+### Instalação
+
+Para fazer o download das dependências utilizadas e gravadas na package.json, rodar o comando:
+
+```sh
+$ npm install
+```
+
+
+Como o projeto foi realizado com o comando *create-react-app*, para testar podemos simplesmente rodar o comando:
+
+```sh
+$ npm start
+```
