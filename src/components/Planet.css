@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+p {
+    text-transform: uppercase;
+    font-size: 1.8rem;
+}
+strong {
+    color: #fbc121;
+}
+.read {
+    text-align: left;
+    margin-left: 25px;
+    margin-top: 5px;
+    color: #fff;
+}
+.planet-box {
+	width: 380px;
+    height: 400px;
+	margin: 0 auto;
+	margin-top: 200px;
+    text-align: center;
+    background-color: #222222;
+    border-bottom: 3px solid #fbc121;
+}
+.planet-name {
+    height: 70px;
+    width: 100%;
+    padding-top: 15px;
+    display: block;
+    background-color: #fbc121;
+    color: #222222;
+    text-align: center;
+}
+.planet-btn {
+ display: inline-block;
+ border: 1px solid #ffc40c;
+ border-radius: 4px;
+ background: #ffc40c;
+ color: #222222;
+ font-weight: 600;
+ font-size: 1rem;
+ text-transform: none;
+ padding: .75rem 1.25rem;
+ margin: 0 0 .5rem 0;
+ vertical-align: middle;
+ text-align: center;
+ cursor: pointer;
+ text-decoration: none;
+ line-height: 1;
+}
+.mt-4 {
+    margin-top: 20px
+}
+.mt-5 {
+    margin-top: 40px;
+}
+.text-center {
+    text-align: center !important;
+}

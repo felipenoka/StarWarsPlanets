@@ -1,0 +1,20 @@
+.App {
+  margin: 0 auto !important;
+  height: auto;
+  width: 100%;
+  text-align: center;
+  float: none !important;
+  position: inherit;
+  
+}
+header {
+  height: 70px;
+  background-color: #222222;
+  color: #fff;
+  justify-content: center;
+}
+img {
+  padding-top: 10px;
+  height: 50px;
+  width: auto;
+}

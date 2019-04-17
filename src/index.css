@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'DIN';
+  src: url(./assets/D-DINCondensed.otf);
+}
+body {
+  background-image: url(./assets/bg-starwars_1.png);
+  margin: 0;
+  padding: 0;
+  font-family: DIN, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
