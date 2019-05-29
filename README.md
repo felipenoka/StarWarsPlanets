@@ -1,4 +1,8 @@
-# Star Wars Planets
+<p align="center">
+    <a href="https://starwarsplanets-app.herokuapp.com/">
+    <img src="https://github.com/felipenoka/starwarsplanets/blob/master/src/assets/logo.png" alt="starwarsplanets" width="auto" height="100">
+  </a>
+</p>
 
 ### Instalação
 
